@@ -95,6 +95,18 @@
       "size": 6337,
       "type": "notebook",
       "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-02-17T12:56:08.289872Z",
+      "format": null,
+      "last_modified": "2022-02-17T12:54:50.281381Z",
+      "mimetype": null,
+      "name": "altair.ipynb",
+      "path": "pyolite/ExploratoryAnalysis.ipynb",
+      "size": 6337,
+      "type": "notebook",
+      "writable": true
     }
   ],
   "created": "2022-02-17T12:56:08.293872Z",
