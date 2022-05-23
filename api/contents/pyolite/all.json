@@ -103,7 +103,7 @@
       "last_modified": "2022-02-17T12:54:50.281381Z",
       "mimetype": null,
       "name": "01_Exploratory_analysis.ipynb",
-      "path": "pyolite/01_Exploratory_analysis.ipynb",
+      "path": "pyolite/01_Exploratory_analysis",
       "size": 6337,
       "type": "notebook",
       "writable": true
@@ -115,7 +115,7 @@
       "last_modified": "2022-02-17T12:54:50.281381Z",
       "mimetype": null,
       "name": "02_Data_preprocessing.ipynb",
-      "path": "pyolite/02_Data_preprocessing.ipynb",
+      "path": "pyolite/02_Data_preprocessing",
       "size": 6337,
       "type": "notebook",
       "writable": false
@@ -127,7 +127,7 @@
       "last_modified": "2022-02-17T12:54:50.281381Z",
       "mimetype": null,
       "name": "03_Metrics.ipynb",
-      "path": "pyolite/03_Metrics.ipynb",
+      "path": "pyolite/03_Metrics",
       "size": 6337,
       "type": "notebook",
       "writable": true
@@ -139,7 +139,7 @@
       "last_modified": "2022-02-17T12:54:50.281381Z",
       "mimetype": null,
       "name": "04_Models.ipynb",
-      "path": "pyolite/04_Models.ipynb",
+      "path": "pyolite/04_Models",
       "size": 6337,
       "type": "notebook",
       "writable": true
@@ -151,7 +151,7 @@
       "last_modified": "2022-02-17T12:54:50.281381Z",
       "mimetype": null,
       "name": "04_Models.ipynb",
-      "path": "pyolite/04_Models.ipynb",
+      "path": "pyolite/04_Models",
       "size": 6337,
       "type": "notebook",
       "writable": true
