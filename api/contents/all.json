@@ -162,8 +162,8 @@
       "format": null,
       "last_modified": "2022-02-17T12:54:50.281381Z",
       "mimetype": null,
-      "name": "Experiments_RF_vs_XB.ipynb",
-      "path": "Experiments_RF_vs_XB",
+      "name": "Experiments_RF_vs_XGB.ipynb",
+      "path": "Experiments_RF_vs_XGB",
       "size": 12962,
       "type": "notebook",
       "writable": true
